@@ -1,3 +1,6 @@
+### Project内容
+![Project](Proj1_Sp25.png)
+
 ### 1. 系统动力学方程
 $$
 \dot{x}=\begin{bmatrix} 
